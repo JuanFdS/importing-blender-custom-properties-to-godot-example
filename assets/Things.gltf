@@ -1,0 +1,50 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v3.6.27",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"extras":{
+				"git_lfs_lock_properties":{
+					"status":"initializing",
+					"message":"Checking locks..."
+				},
+				"hint_settings":{}
+			},
+			"name":"Scene",
+			"nodes":[
+				0,
+				1
+			]
+		}
+	],
+	"nodes":[
+		{
+			"extras":{
+				"toggles":{},
+				"toggleable_transform":{
+					"toggleable_towards":{}
+				},
+				"thing_name":"Milazzo"
+			},
+			"name":"Thing"
+		},
+		{
+			"extras":{
+				"toggles":{},
+				"toggleable_transform":{
+					"toggleable_towards":{}
+				},
+				"thing_name":"Ravenna"
+			},
+			"name":"Thing.001",
+			"translation":[
+				1.1797443628311157,
+				0,
+				0
+			]
+		}
+	]
+}
